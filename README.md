@@ -2,7 +2,7 @@
 
 # Running
 
-1. Download zip file with this project by clicking on green button called `Code`, then `Download ZIP`, and from the archive copy the `template.pack` directory to the following location:
+1. Download zip file with this project by clicking on the green button called `Code`, then `Download ZIP`, and from the archive copy the `template.pack` directory to the following location:
 
 	* On Windows: `%appdata%\LOVE\openSMB2\games\`
 	* On GNU/Linux: `~/.local/share/love/openSMB2/games/`
@@ -19,4 +19,4 @@
 
 # 3rd party font
 
-This project uses modified 3rd party **Dogica** font by **Roberto Mocci** (in [`/resources/images/font/dogica.png`](/resources/images/font/dogica.png)), the license for the font can be found [here](/3rd%20party%20licenses/dogica_license.txt).
+This project uses modified 3rd party **Dogica** font by **Roberto Mocci** (in [`/template.pack/resources/images/font/dogica.png`](/resources/images/font/dogica.png)), the license for the font can be found [here](/3rd%20party%20licenses/dogica_license.txt).
