@@ -8,8 +8,9 @@
 	* On GNU/Linux: `~/.local/share/love/openSMB2/games/`
 	* On macOS: `/Users/user/Library/Application Support/LOVE/openSMB2/games`
 
+2. Rename the gamepack file to `template.pack.zip` (or just `template.pack` if you have file name extension visibility disabled).
 
-2. Run openSMB2.
+3. Run openSMB2.
 
 # Screenshots
 
