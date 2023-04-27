@@ -19,4 +19,4 @@
 
 # 3rd party font
 
-This project uses modified 3rd party **Dogica** font by **Roberto Mocci** (in [`/template.pack/resources/images/font/dogica.png`](/resources/images/font/dogica.png)), the license for the font can be found [here](/3rd%20party%20licenses/dogica_license.txt).
+This project uses modified 3rd party **Dogica** font by **Roberto Mocci** (in [`/template.pack/resources/images/font/dogica.png`](/template.pack/resources/images/font/dogica.png)), the license for the font can be found [here](/3rd%20party%20licenses/dogica_license.txt).
