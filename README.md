@@ -2,7 +2,7 @@
 
 # Running
 
-1. Download this gamepack by clicking on `Clone or download` and `Download ZIP` buttons, and copy it to the following directory:
+1. Download this gamepack by clicking on green button called `Code`, then `Download ZIP`, and copy it to the following directory:
 
 	* On Windows: `%appdata%\LOVE\openSMB2\games\`
 	* On GNU/Linux: `~/.local/share/love/openSMB2/games/`
