@@ -1,0 +1,15 @@
+{
+areas={
+	[1]={
+		width=256,
+		background="light_blue",
+		type="vertical",
+		height=960,
+		music="boss",
+	},
+},
+start={
+	x=128,
+	y=16,
+},
+}
