@@ -2,15 +2,13 @@
 
 # Running
 
-1. Download this gamepack by clicking on green button called `Code`, then `Download ZIP`, and copy it to the following directory:
+1. Download zip file with this project by clicking on green button called `Code`, then `Download ZIP`, and from the archive copy the `template.pack` directory to the following location:
 
 	* On Windows: `%appdata%\LOVE\openSMB2\games\`
 	* On GNU/Linux: `~/.local/share/love/openSMB2/games/`
 	* On macOS: `/Users/user/Library/Application Support/LOVE/openSMB2/games`
 
-2. Rename the gamepack file to `template.pack.zip` (or just `template.pack` if you have file name extension visibility disabled).
-
-3. Run openSMB2.
+2. Run openSMB2.
 
 # Screenshots
 
