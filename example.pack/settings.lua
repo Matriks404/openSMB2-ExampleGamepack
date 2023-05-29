@@ -8,17 +8,17 @@ fonts={
 title_text={
 	[1]={
 		x=16,
-		y=32,
+		y=48,
 		string="This is an example game",
 	},
 	[2]={
 		x=16,
-		y=48,
+		y=64,
 		string="Press START button,",
 	},
 	[3]={
 		x=16,
-		y=64,
+		y=80,
 		string="...or wait for the story!",
 	},
 },
