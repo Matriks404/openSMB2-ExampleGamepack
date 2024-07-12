@@ -1,3 +1,5 @@
+**NOTE:** This project is archived as of 2024-07-12, and will no longer be worked on.
+
 **NOTE:** This gamepack is meant to be run with **openSMB2** engine which can be found [here](https://github.com/Matriks404/openSMB2).
 
 # Running
